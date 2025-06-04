@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aksheta Saravanan</h1>
+<h1 align="center">Hello World👋, I'm Aksheta Saravanan</h1>
 <h3 align="center">A passionate Electronics and Communication Engineering student from India</h3>
 
-- 📝 I regularly write articles on [https://akshetasaravanan.blogspot.com/](https://akshetasaravanan.blogspot.com/)
 
 - 📫 How to reach me **akshetasaravanan@gmail.com**
 
