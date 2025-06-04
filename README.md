@@ -1,16 +1,91 @@
-<h1 align="center">Hello World👋, I'm Aksheta Saravanan</h1>
-<h3 align="center">A passionate Electronics and Communication Engineering student from India</h3>
+<!-- README.md -->
 
+<div align="center">
 
-- 📫 How to reach me **akshetasaravanan@gmail.com**
+  <!-- Profile Image -->
+  <img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" alt="Aksheta Saravanan" width="150" style="border-radius: 50%; margin-bottom: 20px;" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshetasaravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshetasaravanan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akshetasaravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshetasaravanan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshetasaravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshetasaravanan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akshetasaravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshetasaravanan" height="30" width="40" /></a>
-</p>
+  <!-- Typing animation using SVG + CSS -->
+  <h1>
+    <svg width="420" height="40" viewBox="0 0 420 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <text x="0" y="30" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-size="26" fill="#2c3e50">
+        Hi! I'm <tspan fill="#0078d7">Aksheta Saravanan</tspan>
+      </text>
+      <rect id="cursor" x="100" y="10" width="8" height="25" fill="#0078d7" rx="1" ry="1" >
+        <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite" />
+      </rect>
+    </svg>
+  </h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <!-- Tagline with typing effect -->
+  <h3 style="font-family: 'Courier New', Courier, monospace; color: #34495e; margin-top: -10px;">
+    <span id="typed-text"></span><span id="typed-cursor">|</span>
+  </h3>
+
+  <!-- Current Role -->
+  <p style="font-size: 16px; color: #2d3436; margin-top: 15px;">
+    🎓 Student at <strong>PSGiTECH</strong> | 💻 Science Subsystem Developer at <strong>PSG TEAM AURORA</strong>
+  </p>
+
+  <!-- Social Icons -->
+  <p>
+    <a href="https://linkedin.com/in/akshetasaravanan" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px; transition: transform 0.3s;" />
+    </a>
+    <a href="https://www.hackerrank.com/akshetasaravanan" target="_blank" rel="noopener noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="margin: 0 10px; transition: transform 0.3s;" />
+    </a>
+    <a href="https://www.leetcode.com/akshetasaravanan" target="_blank" rel="noopener noreferrer">
+      <img src="https://leetcode.com/static/images/LeetCode_Logo.png" alt="LeetCode" width="40" height="40" style="margin: 0 10px; transition: transform 0.3s;" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/akshetasaravanan" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/geeksforgeeks-1.svg" alt="GeeksforGeeks" width="40" height="40" style="margin: 0 10px; transition: transform 0.3s;" />
+    </a>
+  </p>
+
+  <!-- Tech Stack -->
+  <h3 style="color: #2c3e50; margin-top: 30px;">Languages and Tools:</h3>
+  <p>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="margin: 8px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 8px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 8px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin: 8px;" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 8px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" style="margin: 8px;" />
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" style="margin: 8px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin: 8px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 8px;" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" style="margin: 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="margin: 8px;" />
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="margin: 8px;" />
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" style="margin: 8px;" />
+  </p>
+
+</div>
+
+<!-- Typing animation script -->
+<script>
+  const text = "A little logic, a dash of madness, and a passion for making tech come alive";
+  let index = 0;
+  const speed = 70;
+
+  function typeWriter() {
+    if (index < text.length) {
+      document.getElementById("typed-text").innerHTML += text.charAt(index);
+      index++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+
+  window.onload = () => {
+    typeWriter();
+  };
+</script>
+
+<style>
+  a img:hover {
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 6px #0078d7);
+  }
+</style>
