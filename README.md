@@ -1,7 +1,7 @@
 <h1 align="center">Hello World👋, I'm Aksheta Saravanan</h1>
 <h3 align="center">A little logic, a dash of madness, and a passion for making tech come alive</h3>
 
-- 📫 How to reach me **akshetasaravanan@gmail.com**
+- How to reach me **akshetasaravanan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
